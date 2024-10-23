@@ -1,0 +1,26 @@
+style.css
+Fondo {
+	width: 1440px;
+height: 7686px;
+background: #070707;
+}
+
+Grupo3 {
+	width: 286px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+Nombres {
+	width: 389px;
+color: #FFF;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
